@@ -1,6 +1,11 @@
 {
   "name": "svg-prep",
   "version": "1.0.1",
+  "files": [
+    "bin/",
+    "lib/",
+    "index.js"
+  ],
   "dependencies": {
     "commander": "^2.8.1",
     "xml2js": "^0.4.12"
