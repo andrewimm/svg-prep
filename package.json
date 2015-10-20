@@ -1,6 +1,6 @@
 {
   "name": "svg-prep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "commander": "^2.8.1",
     "xml2js": "^0.4.12"
