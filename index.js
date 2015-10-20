@@ -1,5 +1,1 @@
-#!/usr/bin/env node
-
-'use strict';
-
-require('./lib/cmd');
+module.exports = require('./lib/prep');
